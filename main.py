@@ -1,4 +1,4 @@
-#hi
+print("AJ sucks at valorant")
 
 import pygame, sys
 from player import Player
